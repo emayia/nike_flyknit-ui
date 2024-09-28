@@ -8,19 +8,17 @@ The goal was to create an immersive, brand-centric experience, where users could
 
 ## Features
 
-- **Dynamic Background Color:** The background of the page changes color automatically to match the color of the highlighted shoe. For example:
-  - **Burgundy** for the *Gym Red* model
-	![Gym Red UI](assets/nike_ui-burgundy.JPG)
+**Dynamic Background Color:** The background of the page changes color automatically to match the color of the highlighted shoe. For example:
+- **Burgundy** for the *Gym Red* model
+<img src="assets/nike_ui-burgundy.JPG" alt="Gym Red UI" width="300"/>
 
-	---
 
   - **Royal Blue** for the *Racer Blue* model
-	![Racer Blue UI](assets/nike_ui-royal_blue.JPG)
+<img src="assets/nike_ui-royal_blue.JPG" alt="Racer Blue UI" width="300"/>
 
-	---
 
   - **Turquoise** for the *Neo Turquoise* model
-	![Neo Turquoise UI](assets/nike_ui-turquoise.JPG)
+<img src="assets/nike_ui-turquoise.JPG" alt="Neo Turquoise UI" width="300"/>
 
 
 
